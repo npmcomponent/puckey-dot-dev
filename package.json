@@ -1,0 +1,8 @@
+{
+  "name": "puckey-dot-dev",
+  "description": "Tells you whether the document being served on a .dev domain.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
